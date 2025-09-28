@@ -1,5 +1,8 @@
 ## Serotonine
 
+### Image
+![image](https://img.thrfun.com/img/079/150/pit_bull_puppy_l1.jpg)
+
 <!--
 **serotonine/Serotonine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
