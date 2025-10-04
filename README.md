@@ -36,7 +36,7 @@
 I have been working in web development for over a decade.
 After five years as a full stack Drupal consultant, I dive back into JavaScript and its dedicated frameworks & librairies.
 
-**I'm actually looking for ([Free lance](https://smartbe.be/en/))missions.**
+**I'm actually looking for [Free lance](https://smartbe.be/en/) missions.**
 
 On the me & myself side, my daily life is punctuated by existential flashes such as 'How to reconcile matters of state and humanity?', 'Will I see peace in the Middle East in my lifetime?' or 'where did I put my glasses?'.
 
